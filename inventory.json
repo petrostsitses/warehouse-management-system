@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Ποντίκι Logitech M185",
+        "price": 15.99,
+        "quantity": 40,
+        "category": "Περιφερειακά"
+    },
+    {
+        "id": 2,
+        "name": "Πληκτρολόγιο Μηχανικό RedDragon",
+        "price": 49.9,
+        "quantity": 25,
+        "category": "Περιφερειακά"
+    },
+    {
+        "id": 3,
+        "name": "Οθόνη Dell 24''",
+        "price": 139.99,
+        "quantity": 10,
+        "category": "Οθόνες"
+    },
+    {
+        "id": 4,
+        "name": "Laptop Lenovo IdeaPad 3",
+        "price": 599.0,
+        "quantity": 8,
+        "category": "Υπολογιστές"
+    },
+    {
+        "id": 5,
+        "name": "USB Stick 64GB Kingston",
+        "price": 9.99,
+        "quantity": 50,
+        "category": "Αποθηκευτικά Μέσα"
+    },
+    {
+        "id": 6,
+        "name": "Καλώδιο HDMI 2m",
+        "price": 5.5,
+        "quantity": 30,
+        "category": "Αξεσουάρ"
+    },
+    {
+        "id": 7,
+        "name": "Router TP-Link",
+        "price": 39.9,
+        "quantity": 20,
+        "category": "Δίκτυο"
+    },
+    {
+        "id": 8,
+        "name": "Κάρτα μνήμης SD 128GB",
+        "price": 12.9,
+        "quantity": 20,
+        "category": "Αποθηκευτικά Μέσα"
+    },
+    {
+        "id": 9,
+        "name": "MousePad",
+        "price": 4.0,
+        "quantity": 70,
+        "category": "Περιφερειακά"
+    },
+    {
+        "id": 10,
+        "name": "Μπαταρίες AA (4τμχ)",
+        "price": 3.5,
+        "quantity": 60,
+        "category": "Αξεσουάρ"
+    },
+    {
+        "id": 11,
+        "name": "Webcam Logitech C270",
+        "price": 29.99,
+        "quantity": 15,
+        "category": "Περιφερειακά"
+    }
+]
